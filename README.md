@@ -4,7 +4,6 @@ A collection of **useful Bash scripts** for media file conversion, with a focus 
 
 ## Repository Structure
 
-.
 ├── audio/
 │ └── Bash scripts to convert audio files into various formats
 ├── telegram_bot/
